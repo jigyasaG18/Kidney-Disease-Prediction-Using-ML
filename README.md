@@ -78,7 +78,7 @@ Machine learning algorithms operate primarily with numerical inputs. Thus, it is
 ### Scaling Features
 Scaling involves normalizing numerical variables to ensure that they all contribute equally to the model's predictions. This is achieved through Min-Max scaling, transforming the data into a range between 0 and 1 using the formula:
 
-\[ \text{scaled\_value} = \frac{x - \text{min}}{\text{max} - \text{min}} \]
+{scaled_value} = {x - {min}}{{max} - {min}}
 
 This technique improves the performance of machine learning algorithms by maintaining consistent data distributions.
 
